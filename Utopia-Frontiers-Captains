@@ -1,0 +1,23 @@
+module.exports = [{
+        type: "captain",
+        id: "Cap001",
+        set: ["00001"],
+        name: "JAMES T. KIRK",
+        unique: true,
+        text: "<b>WHEN A [crew] EQUIPPED TO THIS SHIP WOULD BE AFFECTED BY YOUR OPPONENT OR A DAMAGE CARD:</b> Disable 1 Shield on the ship that affected the [crew] or inflicted the damage.
+        factions: ["federation"],
+        cost: 6,
+        skill: 9,
+        talents: 1,
+ }];
+        type: "captain",
+        id: "Cap002",
+        set: ["00002"],
+        name: "Jean-Luc Picard",
+        unique: true,
+        text: "<b>FREE ACTION:</b> Perform a [scan], [battle stations], [evade], or [target lock] Action.
+        factions: ["federation"],
+        cost: 6,
+        skill: 9,
+        talents: 1,
+ }];
